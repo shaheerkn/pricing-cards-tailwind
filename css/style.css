@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&family=Oswald:wght@500&family=Roboto:wght@300;500;900&display=swap');
+
+.robotoMedium {
+  font-weight: 500;
+  font-family: 'Roboto', sans-serif;
+}
+
+.robotoLight {
+  font-weight: 300;
+  font-family: 'Roboto', sans-serif;
+}
+
+.robotoBlack {
+  font-weight: 900;
+  font-family: 'Roboto', sans-serif;
+}
+
+.oswaldMedium {
+  font-weight: 500;
+  font-family: 'Oswald', sans-serif;
+}
+
+.openSansRegular {
+  font-weight: 400;
+  font-family: 'Open Sans', sans-serif;
+}
+
+.list-style-type-dash {
+  list-style-type: "-";
+}
